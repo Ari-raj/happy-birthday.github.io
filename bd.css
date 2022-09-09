@@ -1,0 +1,39 @@
+h1,h2{
+	font-family:'lobster',cursive;
+	color: #e22f8f;
+	text-align: center;
+	margin-bottom: 32px;
+}
+h1{
+	font-size: 55px;
+}
+h2{
+	font-size: 32px;
+
+}
+.hero img{
+	width: 100%;
+	border-radius: 20px 20px 0 0 ;
+
+}
+
+.hero{ line-height: 0; }
+.container{
+	width: 600px;
+	margin: 100px auto;
+	background: #FFF;
+
+}
+aside.left{
+	float: left;
+
+}
+aside.right{
+	float: right;
+}
+
+div.intro{ background: #FFF; }
+
+div.intro ,div.content{
+	padding: 40px;
+}
